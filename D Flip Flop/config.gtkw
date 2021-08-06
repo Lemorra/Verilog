@@ -1,0 +1,25 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Fri Aug  6 17:25:18 2021
+[*]
+[dumpfile] "/home/lemorra/Verilog/D Flip Flop/d_ff_wave.vcd"
+[dumpfile_mtime] "Fri Aug  6 17:23:27 2021"
+[dumpfile_size] 609
+[savefile] "/home/lemorra/Verilog/D Flip Flop/config.gtkw"
+[timestart] 0
+[size] 1920 1043
+[pos] 1802 0
+*-3.578901 25 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 233
+[signals_width] 196
+[sst_expanded] 1
+[sst_vpaned_height] 308
+@28
+tb_dff.clk
+tb_dff.d
+tb_dff.rstn
+tb_dff.q
+@25
+tb_dff.delay[2:0]
+[pattern_trace] 1
+[pattern_trace] 0
