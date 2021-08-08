@@ -1,0 +1,62 @@
+$date
+	Sun Aug  8 19:07:51 2021
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb $end
+$var wire 8 ! out [7:0] $end
+$var reg 8 " a [7:0] $end
+$var reg 8 # b [7:0] $end
+$var reg 8 $ c [7:0] $end
+$var reg 8 % d [7:0] $end
+$var reg 2 & sel [1:0] $end
+$var integer 32 ' i [31:0] $end
+$scope module pr_en0 $end
+$var wire 8 ( a [7:0] $end
+$var wire 8 ) b [7:0] $end
+$var wire 8 * c [7:0] $end
+$var wire 8 + d [7:0] $end
+$var wire 2 , sel [1:0] $end
+$var reg 8 - out [7:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b100100 -
+b0 ,
+b1100011 +
+b1001 *
+b10000001 )
+b100100 (
+b1 '
+b0 &
+b1100011 %
+b1001 $
+b10000001 #
+b100100 "
+b100100 !
+$end
+#5
+b10000001 !
+b10000001 -
+b1 &
+b1 ,
+b10 '
+#10
+b1001 !
+b1001 -
+b10 &
+b10 ,
+b11 '
+#15
+b1100011 !
+b1100011 -
+b11 &
+b11 ,
+b100 '
+#20

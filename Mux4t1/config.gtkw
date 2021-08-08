@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Sun Aug  8 13:37:35 2021
+[*]
+[dumpfile] "/home/lemorra/Verilog/Mux4t1/mux_wave.vcd"
+[dumpfile_mtime] "Sun Aug  8 13:35:55 2021"
+[dumpfile_size] 745
+[savefile] "/home/lemorra/Verilog/Mux4t1/config.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] 2092 64
+*-2.723291 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 233
+[signals_width] 94
+[sst_expanded] 1
+[sst_vpaned_height] 144
+@22
+tb.a[7:0]
+tb.b[7:0]
+tb.c[7:0]
+tb.d[7:0]
+@28
+tb.sel[1:0]
+@23
+tb.out[7:0]
+[pattern_trace] 1
+[pattern_trace] 0
