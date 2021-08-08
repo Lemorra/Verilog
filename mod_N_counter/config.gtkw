@@ -1,0 +1,24 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Sun Aug  8 10:19:57 2021
+[*]
+[dumpfile] "/home/lemorra/Verilog/mod_N_counter/modN_wave.vcd"
+[dumpfile_mtime] "Sun Aug  8 10:18:22 2021"
+[dumpfile_size] 975
+[savefile] "/home/lemorra/Verilog/mod_N_counter/config.gtkw"
+[timestart] 0
+[size] 1920 1043
+[pos] 1802 -73
+*-6.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb.
+[sst_width] 233
+[signals_width] 94
+[sst_expanded] 1
+[sst_vpaned_height] 298
+@28
+tb.clk
+tb.rstn
+@23
+tb.out[3:0]
+[pattern_trace] 1
+[pattern_trace] 0
