@@ -1,0 +1,24 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Sun Aug  8 09:37:47 2021
+[*]
+[dumpfile] "/home/lemorra/Verilog/4-bit_counter/counter_wave.vcd"
+[dumpfile_mtime] "Sun Aug  8 09:36:07 2021"
+[dumpfile_size] 780
+[savefile] "/home/lemorra/Verilog/4-bit_counter/config.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] 2141 29
+*-5.748826 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_counter.
+[sst_width] 233
+[signals_width] 94
+[sst_expanded] 1
+[sst_vpaned_height] 144
+@28
+tb_counter.c0.clk
+tb_counter.c0.rstn
+@23
+tb_counter.c0.out[3:0]
+[pattern_trace] 1
+[pattern_trace] 0

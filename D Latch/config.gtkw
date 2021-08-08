@@ -1,0 +1,25 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Sun Aug  8 09:12:07 2021
+[*]
+[dumpfile] "/home/lemorra/Verilog/D Latch/d_latch_wave.vcd"
+[dumpfile_mtime] "Sun Aug  8 09:09:51 2021"
+[dumpfile_size] 670
+[savefile] "/home/lemorra/Verilog/D Latch/config.gtkw"
+[timestart] 0
+[size] 1920 1043
+[pos] 1802 -73
+*-3.460256 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_latch.
+[sst_width] 233
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 298
+@28
+tb_latch.dl0.d
+tb_latch.dl0.en
+tb_latch.dl0.rstn
+@29
+tb_latch.dl0.q
+[pattern_trace] 1
+[pattern_trace] 0
